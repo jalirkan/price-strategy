@@ -13,13 +13,13 @@
   &__gridlines {
     color: #cdebf9;
   }
-  
+
   &__axis {
-    color: #72c6ed;
+    color: #06577c;
     stroke-width: 4;
 
     &-label {
-      stroke: #72c6ed;
+      stroke: #06577c;
       font-size: 14px;
     }
   }
@@ -29,8 +29,8 @@
     top: 0;
     left: 0;
     background-color: #cdebf9;
-    color: #45b3e7;
-    border: 1px solid #45b3e7;
+    color: #06577c;
+    border: 1px solid #06577c;
     border-radius: 5px;
     width: fit-content;
     padding: 10px;
